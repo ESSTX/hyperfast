@@ -8,3 +8,6 @@
 
 [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate)
 ![steamhappy](https://github.com/user-attachments/assets/753e4ff1-c859-4284-827e-1c59df9a372f)
+
+[madler/zlib](https://github.com/madler/zlib)
+![steamhappy](https://github.com/user-attachments/assets/753e4ff1-c859-4284-827e-1c59df9a372f)
